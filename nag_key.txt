@@ -1,0 +1,37 @@
+! WINDOWS KEYS
+﻿! Please note that this file contains licence keys and installation instructions
+!
+! ANNUAL, NODE, FULL and TRIAL keys
+! --------------------------
+! These key types do not require you to run a Kusari licence server.
+!
+!------ Installing non-SITE keys on Microsoft Windows ------
+! The simplest way to install is to cut and paste the licence key shown
+! below into the licence installer GUI supplied with your software.
+!
+! NAG key begin
+DCW3234NE TRIAL 2020/02/18 "1YfBshVzkbVaR3pPLfWyedjmtH"
+! NAG key end
+! NAG key begin
+DCW6I34NE TRIAL 2020/02/18 "mOmxliaBaWMfnFhJWgVxfEkgHM"
+! NAG key end
+! LINUX KEYS
+﻿! Please note that this file contains licence keys and installation instructions
+!
+! ANNUAL, NODE, FULL and TRIAL keys
+! ---------------------------------
+! These key types do not require you to run a Kusari licence server.
+! The way to install them depends on the computer system you are using.
+!
+!------ Installing non-SITE keys on Linux or other UNIX-like systems ------
+! Please save the licence key(s) shown below to a file of your choice, and set
+! the environment variable NAG_KUSARI_FILE to be the full path name of this
+! file.
+!
+
+! NAG key begin
+DCLUX34NG TRIAL 2020/02/18 "0adrjb4Ce6Nh3JhMudrMf2PoXV"
+! NAG key end
+! NAG key begin
+DCL6I34NG TRIAL 2020/02/18 "PpkpJpvQf3Lbn6nurcNTe2XixU"
+! NAG key end
