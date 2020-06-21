@@ -27,6 +27,11 @@ Change the test cases as required in the `main.cpp` file.
 1. `case_1.json` Single diffusitivty
 2. `case_2.json` Dual diffusitivty
 3. `case_3.json` Triple diffusitivty
+
+Results:
+
+1. Case 1
+<img src="Results/case_1_c2.png">
 	
 Authors:
 
