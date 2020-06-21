@@ -31,7 +31,17 @@ Change the test cases as required in the `main.cpp` file.
 Results:
 
 1. Case 1
-<img src="Results/case_1_c2.png">
+
+<img src="Results/case1_c2.PNG">
+
+2. Case 2
+
+<img src="Results/case2_c2.PNG">
+
+3. Case 3
+
+<img src="Results/case3_c2.PNG">
+
 	
 Authors:
 
